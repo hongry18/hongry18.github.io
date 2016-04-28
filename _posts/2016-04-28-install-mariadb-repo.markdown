@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "install MariaDB 10.1"
+date:   2016-04-28 13:52:24 +0900
+categories: post
+---
 # adding mariadb 10 YUM repository
 
 add file path `/etc/yum.repos.d/MariaDB.repo`

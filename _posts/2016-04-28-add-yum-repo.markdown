@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "install epel-releas"
+date:   2016-04-28 13:52:24 +0900
+categories: post
+---
 1. 먼저 저장소에 epel repo가 있는지 확인한다.
 ```
 yum repolist
