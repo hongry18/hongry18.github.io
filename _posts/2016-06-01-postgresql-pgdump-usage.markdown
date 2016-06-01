@@ -7,7 +7,7 @@ categories: postgresql
 
 # Postgres pg_dump usage
 
-{% highlight %}
+```
 사용법:
   pg_dump [옵션]... [DB이름]
 
@@ -68,4 +68,4 @@ categories: postgresql
   -w, --no-password        암호 프롬프트 표시 안 함
   -W, --password           암호 입력 프롬프트 보임(자동으로 처리함)
   --role=ROLENAME          덤프 전에 SET ROLE 수행
-{% endhighlight %}
+```
