@@ -41,6 +41,14 @@ categories: postgresql
         
     1.5
         To Start PostgreSQL servie using command as per your opeating systems, enable PostgreSQL service to auto start on system boot.
+		
+		CentOS/RHEL 7
+		# systemctl start postgresl-9.5
+		# systemctl enable postgresl-9.5
+
+		CentOS/RHEL 6
+		# service postgresql-9.5 start
+		# chkconfig postgresql-9.5 on
         
     1.6
         Verify PostgreSQL Installation
