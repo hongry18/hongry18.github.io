@@ -18,5 +18,5 @@ ssh -N -RPort:host:Port2 user@host
 [user@host2] ssh -L30001:localhost:22 user@host3
 
 # single command
-ssh -v -L30001:localhost:22 user@host1 -t ssh -v -L30001:localhost:22 user@host2 -t ssh -v -L30001:localhost:22 user@host1
+ssh -v -L30001:localhost:30001 user@host1 -t ssh -v -L30001:localhost:30001 user@host2 -t ssh -v -L30001:localhost:22 user@host1
 ```
