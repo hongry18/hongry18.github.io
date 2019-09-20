@@ -8,6 +8,8 @@ url: "http://hongry.io" # the base hostname & protocol for your site
 facebook_username: hongry18
 github_username:  hongry18
 
+paginate: 10
+
 remote_theme: "dracula/gh-pages"
 show_header: true
 
@@ -17,5 +19,7 @@ sass:
 # Build settings
 markdown: kramdown
 
-gems:
-  - jekyll-gist
+gems: [
+  jekyll-gist
+  ,jekyll-paginate
+]

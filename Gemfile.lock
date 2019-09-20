@@ -251,6 +251,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-paginate
   jekyll-theme-dracula!
 
 BUNDLED WITH
