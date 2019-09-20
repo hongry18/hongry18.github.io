@@ -1,12 +1,5 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
 title: Hongry Github Pages
+show_downloads: false
 email: hongry18@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -16,6 +9,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 facebook_username: hongry18
 github_username:  hongry18
+
+remote_theme: "dracula/gh-pages"
+show_header: true
+
+sass:
+    style: compressed
 
 # Build settings
 markdown: kramdown
