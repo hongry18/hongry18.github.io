@@ -1,10 +1,6 @@
 # Postgres And PostGIS Install
----
-layout: post
-title:  "Postgresql-9.5/PostGIS2.2 Install"
-date:   2016-06-01 14:52:24 +0900
-categories: postgresql
----
+
+<!--more-->
 
 ```
 1. PostgreSQL/PostGIS Install

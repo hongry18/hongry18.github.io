@@ -1,16 +1,11 @@
 # insatll php
----
-layout: post
-title:  "install php"
-date:   2016-04-28 13:52:24 +0900
-categories: post
----
-# insatll php
 
 ## adding WebTatic repository
 ```
 rpm -Uvh http://mirror.webtatic.com/yum/el6/latest.rpm
 ```
+
+<!--more-->
 
 ## install php package
 ```

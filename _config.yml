@@ -8,10 +8,12 @@ url: "http://hongry.io" # the base hostname & protocol for your site
 facebook_username: hongry18
 github_username:  hongry18
 
-paginate: 10
+paginate: 5
 
 remote_theme: "dracula/gh-pages"
 show_header: true
+
+excerpt_separator: <!--more-->
 
 sass:
     style: compressed
