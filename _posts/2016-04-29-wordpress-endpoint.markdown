@@ -1,3 +1,4 @@
+# Wordpress EndPoint use
 ---
 layout: post
 title:  "Wordpress Endpoint"
@@ -5,7 +6,6 @@ date:   2016-04-27 14:52:24 +0900
 categories: wordpress
 ---
 
-# Wordpress EndPoint use
 
 {% highlight php %}
 class EndPoint_API {

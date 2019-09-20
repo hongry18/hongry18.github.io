@@ -1,10 +1,10 @@
+# Install NGINX YUM
 ---
 layout: post
 title:  "install nginx"
 date:   2016-04-28 13:52:24 +0900
 categories: post
 ---
-# Install NGINX YUM
 
 ## adding nginx repository
 add file `/etc/yum.repos.d/nginx.repo`

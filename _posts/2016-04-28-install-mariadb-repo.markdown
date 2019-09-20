@@ -1,3 +1,4 @@
+# install mariadb repo
 ---
 layout: post
 title:  "install MariaDB 10.1"
