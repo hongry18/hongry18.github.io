@@ -227,8 +227,13 @@ button, a.button {
         }
       }
 
-      &.fork {
+      &.menu {
         float: left;
+        margin-right: 6px;
+      }
+
+      &.fork {
+        float: right;
         margin-left: 0px;
       }
 
